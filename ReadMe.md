@@ -1,6 +1,6 @@
 # Divyesh sai Gutta
 
-![Myself](itmo-556/Images/me.jpg)
+![Myself](ITMO-556/Images/me.jpg)
 
 ## Where are you from
 
@@ -16,7 +16,7 @@ Thus, to further pursue my passion, I opted to study the field of Electronics an
 
 ## First Computing Device
 
-My first computing device was a ![MyLaptop](itmo-556/Images/lenovo_ideapad.jpg)
+My first computing device was a ![MyLaptop](ITMO-556/Images/lenovo_ideapad.jpg)
 
 ## Something Interesting About You
 
